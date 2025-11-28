@@ -1,0 +1,74 @@
+body
+			{
+				background:#FFC;
+				font-size:30px;
+				text-align:center;		
+			}
+			
+			#anadiv
+			{
+				width:800px;
+				margin:0 auto;
+				background:white;
+			}
+
+            #üst{
+                font-family: Verdana, Geneva, Tahoma, sans-serif; 
+				border:2px solid blue;
+				margin-top:10px;
+				height:50px;
+			}
+           
+			#logo
+			{
+				float:left;
+				width:400px;
+				height:150px;
+				border:2px solid blue;
+                margin-top:10px;
+				margin-right:10px;
+			}
+			
+			#menu
+			{
+				float:left;
+				width:380px;
+				height:150px;
+				border:2px solid blue;
+                margin-top:10px;
+			}
+			
+			#iceriksagkutu
+			{   
+                background-color: aqua;
+                float: right;
+                width: 350px;
+				height:400px;
+				border:2px solid blue;
+				margin-top:15px;
+			}
+			#iceriksolkutu
+            {
+                background-color: aqua;
+                float: left;
+                width: 350px;
+				height:400px;
+				border:2px solid blue;
+				margin-top:15px;
+            
+			}
+            
+			
+			.sil
+			{
+				clear:both;
+			}
+.ortala{
+    text-align:center;
+  }
+
+
+
+
+     
+
